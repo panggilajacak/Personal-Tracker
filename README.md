@@ -1,3 +1,5 @@
+<img width="3168" height="1344" alt="Gemini_Generated_Image_7rxcjq7rxcjq7rxc" src="https://github.com/user-attachments/assets/b8f1e6aa-7f76-4179-a215-b0d2f5ab0aaf" />
+
 # 🧭 Personal Tracker v1.0
 
 ![Version](https://img.shields.io/badge/version-1.0.0-6366f1?style=flat-square)
@@ -66,6 +68,23 @@
 
 ---
 ## Screenshot
+Dashboard Utama Desktop & Mobile
+<img width="377" height="815" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/023abbee-f867-4b4a-938e-30d2fc3f448e" />
+
+<img width="473" height="334" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/a5dfebd2-5bb1-4a8e-b6e7-6611750fc837" />
+<img width="427" height="332" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/174d8306-d2b4-4170-b93a-966c6b5be362" />
+
+<img width="370" height="804" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/bb603abf-0949-4afb-847a-2dad097f8fbe" />
+
+Menu Lainnya
+<img width="375" height="801" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/3419460a-076c-4dd2-9e09-7ecc59031972" />
+<img width="369" height="809" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/e38bcf48-a054-4fb7-b88e-b91dafeef5fa" />
+<img width="371" height="809" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/84cb30a7-9668-4a3f-88e0-5ca1144484f6" />
+<img width="361" height="811" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/693648f2-362e-47cc-a06b-cd0e9d063c6f" />
+<img width="371" height="451" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/fbfb0baf-55ab-4bfc-a803-a6347acd9d0a" />
+<img width="373" height="413" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/e6323f20-6d01-4c6c-bf91-4798afa1ae6e" />
+<img width="319" height="685" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/1ce1efe3-1afe-4c5d-8161-a0c498decc6c" />
+
 
 ---
 
